@@ -1,0 +1,52 @@
+######################## Load Balance Results #################### 
+Equipment on R - Phase: 
+Auto Fryer
+Auto Fryer_2
+Bain Marie_3
+Bain Marie_6
+Proofer
+Under Counter Chiller
+Vertical Chiller
+Microwave_2
+Impinger Oven-T98G
+Mixer Grinder
+Combi Oven(3-phase) 
+Walk-In Cold Room(3-phase) 
+----------------------- 
+Equipment on Y - Phase: 
+Dosamatic
+Bain Marie
+Bain Marie_4
+Idli Steamer
+Under Counter Chiller_2
+UPS
+Microwave_4
+Deep Freezer_2
+Computer
+Display
+Display_2
+Display_4
+Combi Oven(3-phase) 
+Walk-In Cold Room(3-phase) 
+----------------------- 
+Equipment on B - Phase: 
+Infra Red Routing Table
+Bain Marie_2
+Bain Marie_5
+Rice Cooker
+Makeline 
+Microwave
+Microwave_3
+Deep Freezer
+Lights
+Display_3
+Combi Oven(3-phase) 
+Walk-In Cold Room(3-phase) 
+############################# PHASE LOAD ######################### 
+Power drawn from R-Phase: 28550.0 Watts
+Power drawn from Y-Phase: 28500.0 Watts
+Power drawn from B-Phase: 28500.0 Watts
+Current drawn from R-Phase: 129.77272727272728 A
+Current drawn from Y-Phase: 129.54545454545453 A
+Current drawn from B-Phase: 129.54545454545453 A
+#############################    END    ##########################

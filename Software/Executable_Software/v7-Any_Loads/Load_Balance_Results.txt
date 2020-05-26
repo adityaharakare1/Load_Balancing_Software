@@ -1,0 +1,21 @@
+######################## Load Balance Results #################### 
+Equipment on R - Phase: 
+A
+D
+F (3-ph)
+----------------------- 
+Equipment on Y - Phase: 
+B
+C
+F (3-ph)
+----------------------- 
+Equipment on B - Phase: 
+D_2
+E
+F (3-ph)
+########################### PHASE CURRENTS ####################### 
+(For perfectly balanced load the magnitude of currents should be equal and the angles should be 120 apart) 
+Current drawn from R-Phase: 101.64∠63.43 A
+Current drawn from Y-Phase: 101.64∠183.43 A
+Current drawn from B-Phase: 101.64∠303.43 A
+#############################    END    ##########################

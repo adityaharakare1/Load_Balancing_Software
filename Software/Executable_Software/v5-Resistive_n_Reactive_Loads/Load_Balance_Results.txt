@@ -1,0 +1,49 @@
+######################## Load Balance Results #################### 
+Equipment on R - Phase: 
+Auto Fryer
+Auto Fryer_2
+Bain Marie_3
+Bain Marie_6
+Proofer
+Microwave
+Microwave_4
+Computer
+Display_4
+Combi Oven (3-ph)
+Walk-In Cold Room (3-ph)
+Under Counter Chiller
+Under Counter Chiller_2
+----------------------- 
+Equipment on Y - Phase: 
+Dosamatic
+Bain Marie
+Bain Marie_4
+Idli Steamer
+Microwave_2
+Impinger Oven-T98G
+Display_3
+Combi Oven (3-ph)
+Walk-In Cold Room (3-ph)
+Makeline 
+Vertical Chiller
+----------------------- 
+Equipment on B - Phase: 
+Infra Red Routing Table
+Bain Marie_2
+Bain Marie_5
+Rice Cooker
+Microwave_3
+Lights
+Display
+Display_2
+Combi Oven (3-ph)
+Walk-In Cold Room (3-ph)
+Mixer Grinder
+Deep Freezer
+Deep Freezer_2
+########################### PHASE CURRENTS ####################### 
+(For perfectly balanced load the magnitude of currents should be equal and the angles should be 0, 120 and 240) 
+Current drawn from R-Phase: 101.05∠-18.35 A
+Current drawn from Y-Phase: 101.05∠101.65 A
+Current drawn from B-Phase: 100.7∠222.26 A
+#############################    END    ##########################
